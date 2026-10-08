@@ -1,6 +1,7 @@
 # Julien Marchandise
 
 **Fondateur & Product Architect — développement logiciel avec l’IA et workflows d’agents IA.**
+
 Je conçois des produits numériques et des outils qui relient besoins métier, architecture logicielle et réalisation, en m’appuyant sur des spécifications, des tests et des revues.
 
 ## Projets publics
