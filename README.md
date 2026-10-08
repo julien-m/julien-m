@@ -1,22 +1,22 @@
 # Julien Marchandise
 
-**Fondateur & Product Architect — développement logiciel avec l’IA et workflows d’agents IA.**
+**Founder & Product Architect — AI-assisted software development and AI agent workflows.**
 
-Je conçois des produits numériques et des outils qui relient besoins métier, architecture logicielle et réalisation, en m’appuyant sur des spécifications, des tests et des revues.
+I design digital products and tools that connect business needs, software architecture and implementation, using specifications, tests and reviews.
 
-## Projets publics
+## Public projects
 
-| Projet | Ce que je développe |
+| Project | What I’m building |
 | --- | --- |
-| [LiveSpec](https://github.com/julien-m/livespec) | Un framework open source de spécification et de traçabilité entre les besoins, le code, les tests et la documentation pour le développement avec l’IA. |
-| [api2cli](https://github.com/julien-m/api2cli) | Un générateur de CLI standardisées à partir d’API REST, accompagnées d’instructions (AgentSkills) utilisables par les agents IA. |
-| [keychain-creds](https://github.com/julien-m/keychain-creds) | Une CLI de gestion des secrets fondée sur les magasins d’identifiants natifs de macOS, Windows et Linux. |
-| [cronshed](https://github.com/julien-m/cronshed) | Une CLI de gestion des tâches cron, avec historique d’exécution, diagnostic et notifications d’échec. |
+| [LiveSpec](https://github.com/julien-m/livespec) | An open-source specification and traceability framework linking requirements, code, tests and documentation for AI-assisted development. |
+| [api2cli](https://github.com/julien-m/api2cli) | A generator for standardized CLIs from REST APIs, based on [Melvynx/api2cli](https://github.com/Melvynx/api2cli) and extended with OS keychain authentication and modular AgentSkill instructions. |
+| [keychain-creds](https://github.com/julien-m/keychain-creds) | A credential management CLI built on the native credential stores of macOS, Windows and Linux. |
+| [cronshed](https://github.com/julien-m/cronshed) | A CLI for managing cron jobs, with execution history, diagnostics and failure notifications. |
 
-## Ma démarche
+## My approach
 
-Comprendre le besoin, structurer les règles métier, puis concevoir et intégrer une solution adaptée à ses utilisateurs. J’utilise des agents IA dans ce travail et je m’appuie sur des spécifications, des tests et des revues pour en contrôler la qualité.
+Understand the need, structure the business rules, then design and integrate a solution that fits the people who use it. I use AI agents in this work and rely on specifications, tests and reviews to keep quality in check.
 
-Ces dépôts sont récents et évoluent activement.
+These repositories are recent and under active development.
 
 [LinkedIn](https://www.linkedin.com/in/julien-marchandise-5617663a0/)
